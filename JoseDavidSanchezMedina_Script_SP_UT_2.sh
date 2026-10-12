@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Seleccione el nivel de severidad con el menu siguiente."
+
 # Empezamos creando las opciones para que el usuario eliga la opción que quiera.
 
 option=0
